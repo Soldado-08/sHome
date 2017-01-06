@@ -1,4 +1,4 @@
-name: CubosHome
+name: sHome
 main: me.soldado.home.Main
 version: 1.0
 commands:
