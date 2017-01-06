@@ -1,0 +1,16 @@
+name: CubosHome
+main: me.soldado.home.Main
+version: 1.0
+commands:
+   sethome:
+      description: Marque a sua casa
+      usage: /<command>
+   home:
+      description: Va para a sua casa
+      usage: /<command>
+   deletarhome:
+      description: Delete a sua home
+      usage: /<command>
+   loja:
+      description: Transforme a sua home em uma loja
+      usage: /<command>

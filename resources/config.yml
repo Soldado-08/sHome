@@ -1,0 +1,22 @@
+#Permissões
+PermissaoHomeNormal: "home.limite.normal"
+PermissaoHomeVip1: "home.limite.vip1"
+PermissaoHomeVip2: "home.limite.vip2"
+PermissaoHomeAdm: "home.limite.adm"
+PermissaoCriarHome: "home.criar"
+PermissaoDeletarHome: "home.deletar"
+PermissaoUsarHome: "home.usar"
+PermissaoCriarLoja: "loja.criar"
+PermissaoDelayVip: "home.delay.vip"
+
+#Limite de Homes (Adms não tem limite)
+LimiteHomeNormal: 5
+LimiteHomeVip1: 10
+LimiteHomeVip2: 20
+
+#Delay para teleport para home
+DelayNormal: 5
+DelayVip: 0
+
+#Autenticação
+Chave: ""
